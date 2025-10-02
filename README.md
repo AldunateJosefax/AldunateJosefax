@@ -1,4 +1,4 @@
-## ¡Hola!�
+## ¡Hola!
 
 Me llamo Josefa Aldunate y estoy aprendiendo a usar GitHub
 
